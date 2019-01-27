@@ -1,0 +1,10 @@
+C:\Users\Ali\source\repos\Rehber\Rehber\bin\Debug\Rehber.exe.config
+C:\Users\Ali\source\repos\Rehber\Rehber\bin\Debug\Rehber.exe
+C:\Users\Ali\source\repos\Rehber\Rehber\bin\Debug\Rehber.pdb
+C:\Users\Ali\source\repos\Rehber\Rehber\obj\Debug\Rehber.csprojAssemblyReference.cache
+C:\Users\Ali\source\repos\Rehber\Rehber\obj\Debug\Rehber.Form1.resources
+C:\Users\Ali\source\repos\Rehber\Rehber\obj\Debug\Rehber.Properties.Resources.resources
+C:\Users\Ali\source\repos\Rehber\Rehber\obj\Debug\Rehber.csproj.GenerateResource.cache
+C:\Users\Ali\source\repos\Rehber\Rehber\obj\Debug\Rehber.csproj.CoreCompileInputs.cache
+C:\Users\Ali\source\repos\Rehber\Rehber\obj\Debug\Rehber.exe
+C:\Users\Ali\source\repos\Rehber\Rehber\obj\Debug\Rehber.pdb
